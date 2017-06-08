@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MaMa</string>
+
+    <string name="title">Myanmar Circular Train Guide</string>
+
+    <string name="forgot_password">Forgot Password</string>
+    <string name="no_account">No account yet.Register Here</string>
+
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="radio_other">Other</string>
+
+    <!--For Spinner-->
+    <string-array name="township_array">
+        <item>Ahlon Township</item>
+        <item>Botataung Township</item>
+        <item>Insein Township</item>
+        <item>Pazundaung Township</item>
+        <item>Dagon Township</item>
+    </string-array>
+
+</resources>
